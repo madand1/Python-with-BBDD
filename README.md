@@ -1,2 +1,2 @@
 # Python-with-BBDD
-Realizar consultas o DML en la base de datos que hemos estado trabajando, pero esta vez desde python.
+![Proyecto base de datos](https://github.com/madand1/Python-with-BBDD/blob/main/Hogwarts.webp)
